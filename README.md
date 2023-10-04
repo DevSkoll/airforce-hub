@@ -1,9 +1,3 @@
-# hub-af
-
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
 # Air Force Hub: Streamlining Processes and Enhancing Communication
 
 Welcome to the Air Force Hub, a project born out of a deep respect and passion for creating a streamlined and efficient environment within the Air Force. This initiative is spearheaded by a hobbyist programmer and developer with a profound vision to revolutionize the current system through the development of a versatile Web-App. Through this initiative, we aim to garner support and collaboration from the leadership and the Department of Defense (DoD), thereby creating tools that facilitate smoother operations and clear lines of communication.
